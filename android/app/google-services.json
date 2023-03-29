@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204183005471",
+    "project_id": "ad-bank",
+    "storage_bucket": "ad-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204183005471:android:79f3b9343ffebf7040a82a",
+        "android_client_info": {
+          "package_name": "com.example.ad_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204183005471-s5mp8ioghqud0c4fa2ir5jd3m4tbj3o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl-DiOdEDgwLXv9sURCxp-VuGtHnbY8Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204183005471-s5mp8ioghqud0c4fa2ir5jd3m4tbj3o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
